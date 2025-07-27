@@ -38,3 +38,4 @@
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/sirine-ouerghemmi)
 [![Facebook](https://img.shields.io/badge/facebook-blue?logo=facebook&style=flat)](https://facebook.com/syrine.ouerghemmi)
+[![Instagram](https://img.shields.io/badge/instagram-blue?logo=instagram&style=flat)](https://instagram.com/syrine.ouerghemmi)
